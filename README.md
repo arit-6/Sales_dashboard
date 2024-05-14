@@ -1,1 +1,2 @@
-#Sales_Dashboard
+# Sales Dashboard
+A Power BI Sales Dashboard
